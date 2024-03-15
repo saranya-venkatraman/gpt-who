@@ -1,4 +1,4 @@
-# Implementation of "GPT-who: An Information Density-based Machine-Generated Text Detector"
+# Implementation of "[GPT-who: An Information Density-based Machine-Generated Text Detector](https://arxiv.org/abs/2310.06202)"
 
 
 This repository provides code to calculate the 4 UID-based features and UID minimum and maximum span features described in the paper for efficient and accurate machine text detection.
