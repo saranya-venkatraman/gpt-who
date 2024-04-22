@@ -3,6 +3,8 @@
 
 This repository provides code to calculate the 4 UID-based features and UID minimum and maximum span features described in the paper for efficient and accurate machine text detection.
 
+![image](https://github.com/saranya-venkatraman/gpt-who/assets/8631382/eee122f4-8578-4f88-b2ca-d01b597a1bde)
+
 ## Installation
 
 Use the package manager [pip](https://pypi.org/project/pip/) to install all requirements.
