@@ -43,7 +43,7 @@ train['surps'] = transform_probs(train)
 test['surps'] = transform_probs(test)
 
 # Calculated UID span features
-def spans(lst, n=20):
+def spans(lst, n=50):
     """Yield successive n-sized spans from lst."""
     remove_list = []
     max_uid, min_uid = -1, 10000
